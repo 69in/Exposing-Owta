@@ -1,0 +1,2012 @@
+[22:58:27] [Client thread/INFO]: [CHAT] §f§l<§c§nAdmin§f§l>§f §f§4§lOwta§r§4:§f §o69in§r§c
+[22:58:28] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f ohh
+[22:58:28] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§5M§9u§3s§2i§ac§7_§eA§6l§cl§de§5g§9i§3a§2n§ac§ee§r§e:§f o
+[22:58:33] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f Owta
+[22:58:35] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f I thought it said ig spawner
+[22:58:38] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f not blaze spawner
+[22:58:38] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f §oTraicy§r§b, thats a naughty word
+[22:58:41] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f im shook
+[22:58:44] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§6ItsFluffyFox§r§6:§f rip
+[22:58:47] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f Hellper
+[22:58:48] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§dAlly§bCant§aSpell§r§a:§f chris imma let u do that bc i cant build for the life of me
+[22:58:50] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§aTrappinYoshi§r§a:§f ?
+[22:58:50] [Client thread/INFO]: [CHAT] §b[GummyBear]§f CallMePoppy§r§f:§f rip traise
+[22:58:50] [Client thread/INFO]: [CHAT] §b[GummyBear]§f XplodingCookie§r§f:§f what hapend to temple??????????????
+[22:58:51] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f hopelesskingdom§r§f:§f ok
+[22:58:52] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f i want an ig spawner
+[22:58:54] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§5Roger§dthe§3Bear§r§3:§f §oTraicy§r§b mom, that is not family friendly
+[22:58:54] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f turn on pvp
+[22:59:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '45fc2342a4932'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '45fc2342a4932'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[22:59:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[22:59:08] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f Roger ur not family friendly
+[22:59:11] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f §o28cheetah§r§b, mommu!
+[22:59:11] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f does anyone have a cow?
+[22:59:11] [Client thread/INFO]: [CHAT] Party Chat only Off
+[22:59:11] [Client thread/INFO]: [CHAT] §a[JellyBean]§f GeT_ShReKtOnYT§r§f:§f §oblockgirl715§r§f???
+[22:59:13] [Client thread/INFO]: [CHAT] §f§l<§cMod§f§l>§f §f§4§lArcticFoxGuy§r§4:§f §oXplodingCookie§r§c do /server then go to legacy servers
+[22:59:14] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§5Roger§dthe§3Bear§r§3:§f You right
+[22:59:14] [Client thread/INFO]: [CHAT] §e§l[SugarLord]§f ~§epl§axi§2n§r§2:§f oh hi there ratness everdine
+[22:59:15] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f ima build one more apartment
+[22:59:17] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f bye
+[22:59:18] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§f69§0in§r§0:§f owta you asked for me early what's up?
+[22:59:20] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f PlsDunHurtMe§r§f:§f <--- wants to buy an ig spawner for 1.47 mill, /msg §oPlsDunHurtMe§r§b
+[22:59:22] [Client thread/INFO]: [CHAT] §f§l<§c§nAdmin§f§l>§f §f§4§lCheetah§r§4:§f §oXplodingCookie§r§c You can still connect to temple. Do /server and click "legacy servers".
+[22:59:23] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4693f8f0b5e1f'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4693f8f0b5e1f'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[22:59:23] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[22:59:24] [Client thread/INFO]: [CHAT] §a[JellyBean]§f GeT_ShReKtOnYT§r§f:§f wanna claim my bounty?
+[22:59:25] [Client thread/INFO]: [CHAT] 
+[22:59:25] [Client thread/INFO]: [CHAT]     Skyblock
+[22:59:25] [Client thread/INFO]: [CHAT]     - Helper Traicy
+[22:59:25] [Client thread/INFO]: [CHAT]     - Admin 28cheetah
+[22:59:25] [Client thread/INFO]: [CHAT]     - Mod ArcticFoxGuy
+[22:59:25] [Client thread/INFO]: [CHAT]     - Admin _OwtaCtrl
+[22:59:25] [Client thread/INFO]: [CHAT]     - Dev JiNJaProductionz
+[22:59:25] [Client thread/INFO]: [CHAT]     - Helper TrappinYoshi
+[22:59:25] [Client thread/INFO]: [CHAT] 
+[22:59:25] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f How
+[22:59:26] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f §oPlsDunHurtMe§r§f
+[22:59:27] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f §oArcticFoxGuy§r§b, §oTraicy§r§b said a naughty word
+[22:59:27] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f hi
+[22:59:28] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Cattiees§r§f:§f Lol exposed Roger
+[22:59:28] [Client thread/INFO]: [CHAT] §b[GummyBear]§f XplodingCookie§r§f:§f ok thanks
+[22:59:29] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f im a go to bed
+[22:59:31] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f do you rember me
+[22:59:31] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f anyone got a cow?
+[22:59:35] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f blockgirl715§r§f:§f Sure
+[22:59:37] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i was abody8424
+[22:59:38] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f armor
+[22:59:39] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f §oXplodingCookie§r§f
+[22:59:40] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Talon_McEarchern§r§f:§f omg
+[22:59:43] [Client thread/INFO]: [CHAT] §f§l<§cMod§f§l>§f §f§4§lArcticFoxGuy§r§4:§f Disown her then
+[22:59:44] [Client thread/INFO]: [CHAT] §b[GummyBear]§f XplodingCookie§r§f:§f yes
+[22:59:44] [Client thread/INFO]: [CHAT] §a[JellyBean]§f GeT_ShReKtOnYT§r§f:§f rightclick
+[22:59:47] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f §oItsMooseCraft7§r§7 im a go to bed
+[22:59:48] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f I was just on Temple, it's fine
+[22:59:52] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f who has a cow
+[22:59:53] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468e626daff1e'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468e626daff1e'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[22:59:53] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[22:59:53] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f PlsDunHurtMe§r§f:§f §oiabody§r§b uuhhhh whats ur previous name?
+[22:59:53] [Client thread/INFO]: [CHAT] §b[GummyBear]§f XplodingCookie§r§f:§f ok
+[22:59:54] [Client thread/INFO]: [CHAT] §a[JellyBean]§f GeT_ShReKtOnYT§r§f:§f ty
+[22:59:54] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] you called?
+[22:59:59] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f ok
+[22:59:59] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§dAlly§bCant§aSpell§r§a:§f ;)
+[22:59:59] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f abody8424
+[23:00:03] [Client thread/INFO]: [CHAT] §f§l<§c§nAdmin§f§l>§f §f§4§lOwta§r§4:§f §o69in§r§c
+[23:00:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46950c9c80df3'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46950c9c80df3'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:05] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i got ban for 2 mounths
+[23:00:05] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§5Roger§dthe§3Bear§r§3:§f §oTraicy§r§b mom you heaed §oArcticFoxGuy§r§b you are disowned
+[23:00:07] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f bye
+[23:00:07] [Client thread/INFO]: [CHAT] §f§l<§c§nAdmin§f§l>§f §f§4§lOwta§r§4:§f block your lava source
+[23:00:10] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f PlsDunHurtMe§r§f:§f ermmmm no i do knot remember you .-.
+[23:00:10] [Client thread/INFO]: [CHAT] Party Chat only On
+[23:00:11] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f im 69 inches in
+[23:00:11] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f and now i it gone
+[23:00:11] [Client thread/INFO]: [CHAT] Party Chat only Off
+[23:00:12] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:00:12] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469413046e706'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469413046e706'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:12] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:13] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f PlsDunHurtMe§r§f:§f not*
+[23:00:15] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§f69§0in§r§0:§f what lava source?
+[23:00:16] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f rip
+[23:00:16] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f o
+[23:00:18] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468f63792191d'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468f63792191d'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:18] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:19] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '465cbf772722e'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '465cbf772722e'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:19] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:24] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f remeber i put your skin
+[23:00:25] [Client thread/INFO]: [CHAT] * Welcome DjhBaham to the Skyblock world!
+[23:00:26] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f for some time
+[23:00:30] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Cattiees§r§f:§f No one disowns §oTraicy§r§f
+[23:00:30] [Client thread/INFO]: [CHAT] Bought 64x Cobblestone for $176
+[23:00:31] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f PlsDunHurtMe§r§f:§f guess
+[23:00:34] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Cattiees§r§f:§f §oTraicy§r§f is a special child
+[23:00:36] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f yes
+[23:00:38] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:39] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f shhh
+[23:00:41] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f Half
+[23:00:45] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46963a5c63a0c'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46963a5c63a0c'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:45] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:45] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] you have blazes?
+[23:00:52] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§dAlly§bCant§aSpell§r§a:§f srry chris
+[23:00:53] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '462a83c2d6b22'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '462a83c2d6b22'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:53] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:00:57] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] I gave to pyro
+[23:00:57] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f wait
+[23:00:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:00:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:00] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f gives me
+[23:01:00] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] oh wait
+[23:01:02] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] they're in my inv
+[23:01:03] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] mb
+[23:01:05] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§5Mxy__§r§5:§f how much does this sell for? §b»§f§d§lCandy §d§lCane §d§lDrill§b«
+[23:01:06] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:01:06] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4680843b0f96a'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4680843b0f96a'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:06] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:07] [Client thread/INFO]: [CHAT] < ? CandyTip ? > Want to talk smack? From your computer? From your phone? We've got you covered @ https://discord.gg/8kCkR4c
+[23:01:11] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f §oJohnClay55§r§f hi
+[23:01:16] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f come my is
+[23:01:19] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468d2d3aebfd7'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468d2d3aebfd7'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:19] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:21] [Client thread/INFO]: [CHAT] §c[Licorice]§f _AGoodGapple_§r§f:§f hey john
+[23:01:21] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§5Mxy__§r§5:§f blaze
+[23:01:22] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:01:22] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46912daf208e8'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46912daf208e8'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:22] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:23] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] I need TinTiger123's blocks.
+[23:01:24] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f but can i have jungle Wood first
+[23:01:25] [Client thread/INFO]: [CHAT] §f§l<§cMod§f§l>§f §f§4§lArcticFoxGuy§r§4:§f §oMxy__§r§c I really wanted one so I paid 300k xD
+[23:01:30] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f who wants a blaze spawner :D
+[23:01:32] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f Me
+[23:01:33] [Client thread/INFO]: [CHAT] §c[Licorice]§f _AGoodGapple_§r§f:§f me
+[23:01:34] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] I don't know exactly what he had
+[23:01:35] [Client thread/INFO]: [CHAT] §e§l[SugarLord]§f ~§epl§axi§2n§r§2:§f i had 3 today
+[23:01:35] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f me
+[23:01:36] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '466bad9cca4e1'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '466bad9cca4e1'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:36] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:36] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f me
+[23:01:38] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] but all our blocks are beneath
+[23:01:38] [Client thread/INFO]: [CHAT] §e§l[SugarLord]§f ~§epl§axi§2n§r§2:§f from crates
+[23:01:40] [Client thread/INFO]: [CHAT] §b[GummyBear]§f efhill§r§f:§f me traicy
+[23:01:40] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i want 1 plz
+[23:01:42] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f Now u op
+[23:01:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4695caa26544b'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4695caa26544b'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:49] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] 2 stacks and 60 of iron blocks.
+[23:01:51] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f me please
+[23:01:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46540803b05f7'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46540803b05f7'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '466b84a229c1f'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '466b84a229c1f'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468d29811552f'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468d29811552f'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:01:52] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f How
+[23:01:53] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f hmm /msg me a number between 1 - 20
+[23:01:54] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f hopelesskingdom§r§f:§f ally pay me 5k lols
+[23:01:55] [Client thread/INFO]: [CHAT] < ! > Opening your enderchest!
+[23:01:56] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f you fly
+[23:02:00] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§dAlly§bCant§aSpell§r§a:§f mhmm
+[23:02:04] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f ./fly
+[23:02:05] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f do /dly
+[23:02:06] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f hopelesskingdom§r§f:§f i need money
+[23:02:08] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f oh
+[23:02:09] [Client thread/INFO]: [CHAT] §a[JellyBean]§f VanossGaming7§r§f:§f moose is it u?
+[23:02:10] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f §oJohnClay55§r§f can i see your is
+[23:02:11] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] 2 stacks and 60 of iron blocks, 2 stacks and 29 redstone blocks, 32 lapis
+[23:02:13] [Client thread/INFO]: [CHAT] §a[JellyBean]§f VanossGaming7§r§f:§f no wait
+[23:02:16] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f §oiabody§r§b
+[23:02:17] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] also, can you unlock your island please? :P
+[23:02:18] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f wasuh
+[23:02:18] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f the person who gets it correct gets the blaze spawner
+[23:02:19] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§dAlly§bCant§aSpell§r§a:§f u have 53k and i have 36k nono
+[23:02:19] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f sure
+[23:02:22] [Client thread/INFO]: [CHAT] Locking island
+[23:02:23] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f this is my is lets go to your
+[23:02:23] [Client thread/INFO]: [CHAT] §a[JellyBean]§f VanossGaming7§r§f:§f moose should be admin
+[23:02:24] [Client thread/INFO]: [CHAT] Unlocking island
+[23:02:25] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f do i tpa
+[23:02:25] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] was unlocked
+[23:02:26] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f gets what correct?
+[23:02:28] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f §oTraicy§r§f, did I get it right?
+[23:02:28] [Client thread/INFO]: [CHAT] §b[GummyBear]§f efhill§r§f:§f §oTraicy§r§f do we get 1 guess?
+[23:02:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:02:33] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f moose jump
+[23:02:34] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f §o_FuturisticX§r§c
+[23:02:35] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f bye §oItsMooseCraft7§r§7
+[23:02:38] [Client thread/INFO]: [CHAT] §b[GummyBear]§f Jays_Toxic§r§f:§f msg §oTraicy§r§f 6
+[23:02:39] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Zvelth§r§f:§f 17
+[23:02:39] [Client thread/INFO]: [CHAT] §a[JellyBean]§f _FuturisticX§r§f:§f yay
+[23:02:40] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§0Tr§8ip§7py§fHoes§r§f:§f what was it
+[23:02:42] [Client thread/INFO]: [CHAT] §b[GummyBear]§f Jays_Toxic§r§f:§f oops
+[23:02:43] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f said 7 first
+[23:02:45] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f ah ;(
+[23:02:46] [Client thread/INFO]: [CHAT] * Welcome Jordan_Playys to the Skyblock world!
+[23:02:48] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f again
+[23:02:49] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f Dang
+[23:02:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:02:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4696b904fe99e'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4696b904fe99e'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:02:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:02:52] [Client thread/INFO]: [CHAT] §b[GummyBear]§f efhill§r§f:§f dangit i was gunna say it first
+[23:02:54] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f bye §oItsMooseCraft7§r§7 bye bye
+[23:02:55] [Client thread/INFO]: [CHAT] §a[JellyBean]§f AlexRabbit171§r§f:§f nice is
+[23:02:56] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] 2 stacks and 60 of iron blocks, 2 stacks and 29 redstone blocks, 32 lapis
+[23:02:56] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f I really wanted a blaze spawner
+[23:02:59] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f so like
+[23:02:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46552a96663f4'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46552a96663f4'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:02:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:03:00] [Client thread/INFO]: [CHAT] §b[GummyBear]§f Jays_Toxic§r§f:§f dang so close
+[23:03:01] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f cool
+[23:03:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4697ea7e5299b'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4697ea7e5299b'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:03:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:03:05] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Blue54§r§f:§f §f»§f§fCow §fSpawner §f(2)§f«
+[23:03:06] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469843e793dc9'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469843e793dc9'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:03:06] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:03:07] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f whats this
+[23:03:07] [Client thread/INFO]: [CHAT] * Welcome ii_ to the Skyblock world!
+[23:03:09] [Client thread/ERROR]: Item entity 2512825 has no item?!
+[23:03:09] [Client thread/ERROR]: Item entity 2512825 has no item?!
+[23:03:15] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f wow §oBlue54§r§f
+[23:03:16] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f can i ahve 1
+[23:03:17] [Client thread/ERROR]: Item entity 2514345 has no item?!
+[23:03:17] [Client thread/ERROR]: Item entity 2514345 has no item?!
+[23:03:20] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f §oJohnClay55§r§f
+[23:03:22] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Blue54§r§f:§f el oh el
+[23:03:23] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f can i see this
+[23:03:27] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§dAlly§bCant§aSpell§r§a:§f holy church
+[23:03:27] [Client thread/INFO]: [CHAT] §a[JellyBean]§f _FuturisticX§r§f:§f ty <3
+[23:03:29] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f wait john are you with kingleo
+[23:03:30] [Client thread/INFO]: [CHAT] §f§l<§cHelper§f§l>§f §f§9Tr§3ai§fcy§r§f:§f mhm
+[23:03:33] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f ye
+[23:03:35] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:03:37] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f but whats this
+[23:03:38] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Cattiees§r§f:§f Im shook
+[23:03:39] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f idk
+[23:03:59] [Client thread/ERROR]: Item entity 2521167 has no item?!
+[23:04:01] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f lol small coca bean
+[23:04:01] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] unban TinTiger123
+[23:04:04] [Client thread/INFO]: [CHAT] §8[§7Member§8]§f Avery_theCoolest§r§f:§f bye §oItsMooseCraft7§r§7 bye bye see you tomorrow
+[23:04:07] [Client thread/INFO]: [CHAT] < ? CandyTip ? > There's a...a what? A sale? On the store? Right now?! Yes right now! 80% OFF MERGE Sale! buy.candycraft.org
+[23:04:11] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46541aa408670'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46541aa408670'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:11] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:12] [Client thread/INFO]: [CHAT] * Welcome TheJordiKing10 to the Skyblock world!
+[23:04:15] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i am wishing to make house soon
+[23:04:16] [Client thread/INFO]: [CHAT] Ban lifted for TinTiger123!
+[23:04:18] [Client thread/INFO]: [CHAT] §b[GummyBear]§f efhill§r§f:§f who was looking to buy an enderman spawner?
+[23:04:18] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f but i dont have time today
+[23:04:20] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i mean now
+[23:04:22] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f does anyone have a cow
+[23:04:30] [Client thread/INFO]: [CHAT] §a[JellyBean]§f GeT_ShReKtOnYT§r§f:§f me §oefhill§r§f
+[23:04:36] [Client thread/INFO]: [CHAT] §b[GummyBear]§f ShadowFlame2§r§f:§f could anyone give me 5 dispencers?
+[23:04:40] [Client thread/ERROR]: Item entity 2528771 has no item?!
+[23:04:40] [Client thread/ERROR]: Item entity 2528771 has no item?!
+[23:04:40] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f §oJohnClay55§r§f want to see my is
+[23:04:40] [Client thread/INFO]: [CHAT] *** Warning! Ground items will be removed in 60 seconds!
+[23:04:44] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i start yestarday
+[23:04:47] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f oh
+[23:04:49] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] 2 stacks and 60 of iron blocks, 2 stacks and 29 redstone blocks, 32 lapis
+[23:04:50] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Blue54§r§f:§f §f»§f§fIron §fGolem §fSpawner§f« o wow wasnt expecting this from my lollipop key xd
+[23:04:50] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f ye sure
+[23:04:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '466f79ea04727'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '466f79ea04727'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:54] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '464fa6b3b759c'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '464fa6b3b759c'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:54] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:55] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f oh
+[23:04:55] [Client thread/INFO]: [CHAT] §c[Licorice]§f _AGoodGapple_§r§f:§f xD
+[23:04:57] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f do /is warp §oiabody§r§f
+[23:04:57] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4699b0faa0181'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4699b0faa0181'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:57] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46999e5aa2f7c'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46999e5aa2f7c'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:04:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:10] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Blue54§r§f:§f §f»§f§fIron §fGolem §fSpawner§f« offers?
+[23:05:12] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] you are aware he took this from another island
+[23:05:14] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f me
+[23:05:16] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f is it cool?
+[23:05:16] [Client thread/INFO]: [CHAT] §c[Licorice]§f _AGoodGapple_§r§f:§f 66k
+[23:05:18] [Client thread/INFO]: [CHAT] §b[GummyBear]§f efhill§r§f:§f selling an enderman spawner
+[23:05:18] [Client thread/INFO]: [CHAT] [SugarLord] ~ADM1N1SH has completed the Dye Maker challenge!
+[23:05:18] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4BiII_§fClinton§r§f:§f 455k
+[23:05:19] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f then put it back on
+[23:05:20] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f 20k
+[23:05:20] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f i dont see you
+[23:05:21] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4644a66297378'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4644a66297378'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:21] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:21] [Client thread/INFO]: [CHAT] *** Warning! Ground items will be removed in 20 seconds!
+[23:05:22] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:05:22] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46571a0d14d48'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46571a0d14d48'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:22] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:25] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f nice
+[23:05:26] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f its just my start
+[23:05:27] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] no, he took what was his.
+[23:05:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '465b3495648bd'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '465b3495648bd'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:33] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] I asked the owner
+[23:05:33] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4694eecf11b22'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4694eecf11b22'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:34] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Sprint_Rager§r§f:§f can you make hoppers or do you have to buy them?
+[23:05:34] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4696812406baa'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4696812406baa'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:34] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:05:39] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f btw do you have spawner?
+[23:05:42] [Client thread/INFO]: [CHAT] *** Removed 358 Entities!
+[23:05:49] [Client thread/INFO]: [CHAT] §a[JellyBean]§f ItsMooseCraft7§r§f:§f whp then
+[23:06:00] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f ?
+[23:06:00] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:06:00] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468ba9cc89fcc'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468ba9cc89fcc'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:00] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:07] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469988009f54e'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469988009f54e'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:07] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:07] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4674f29f09c98'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4674f29f09c98'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:07] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:06:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4651c698ce0ec'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4651c698ce0ec'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:10] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468bf09507bf6'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '468bf09507bf6'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:10] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:24] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f Well, I think I am gonna start getting more money soon xD
+[23:06:30] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Bubasky§r§f:§f oh
+[23:06:36] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f ok bye all
+[23:06:37] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:06:37] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:38] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§3Teal§9Cacti§r§9:§f Hey
+[23:06:40] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f oh
+[23:06:40] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f i have to go
+[23:06:41] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] more iron blocks btw
+[23:06:42] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46891a25fa1a1'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46891a25fa1a1'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:42] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:42] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Toothlessboy2001§r§f:§f cya
+[23:06:43] [Client thread/ERROR]: Item entity 2554239 has no item?!
+[23:06:43] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f gg
+[23:06:48] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f anyone got a cow
+[23:06:48] [Client thread/INFO]: [CHAT] §c[Licorice]§f ~§fi§4a§6b§ao§bd§5y§r§5:§f bye john
+[23:06:48] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§4Cenisys§r§4:§f im keeping it
+[23:06:49] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] 60, not 40.
+[23:06:49] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] you said 2 stacks 40
+[23:06:51] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] oh
+[23:06:52] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Blue54§r§f:§f i do §ox_aanaa_x§r§f
+[23:06:54] [Client thread/INFO]: [CHAT] [Skyblock] [_OwtaCtrl -> me] 2 stacks and 60 of iron blocks, 2 stacks and 29 redstone blocks, 32 lapis
+[23:06:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:06:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '467fcdb024874'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '467fcdb024874'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469b611d44b31'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469b611d44b31'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:06:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:00] [Client thread/INFO]: [CHAT] [Skyblock] [me -> _OwtaCtrl] ops mb looked too quick
+[23:07:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469a6ef7f7276'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469a6ef7f7276'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:07] [Client thread/INFO]: [CHAT] < ? CandyTip ? > Want to talk smack? From your computer? From your phone? We've got you covered @ https://discord.gg/8kCkR4c
+[23:07:09] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f JohnClay55§r§f:§f Bye
+[23:07:29] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f let me tpa to you §oBlue54§r§f
+[23:07:31] [Client thread/INFO]: [CHAT] [JellyBean] TifftiffDog has completed the Cobble Maker challenge!
+[23:07:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46925f286cc18'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '46925f286cc18'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:45] [Client thread/INFO]: [CHAT] < ! > Opening your enderchest!
+[23:07:48] [Client thread/INFO]: [CHAT] §f§l<§c§nAdmin§f§l>§f §f§4§lOwta§r§4:§f §oTinTiger123§r§c
+[23:07:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:07:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469b6c49d5206'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469b6c49d5206'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:07:56] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§cS§6p§e§ae§be§5d§dy§cy§6P§eo§a§at§ba§5t§do§r§d:§f Owta love me
+[23:07:57] [Client thread/INFO]: [CHAT] §3§l[CandyKing]§f ~§cS§6p§e§ae§be§5d§dy§cy§6P§eo§a§at§ba§5t§do§r§d:§f <3
+[23:08:02] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:08:02] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469cd5a41c47c'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '469cd5a41c47c'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:08:02] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:08:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.NullPointerException
+[23:08:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4690d446f91f5'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '4690d446f91f5'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:08:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team 'collideRule_-722'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:08:08] [Client thread/INFO]: [CHAT] §a[JellyBean]§f LEXievelyn§r§f:§f r
+[23:08:09] [Client thread/INFO]: [CHAT] §9[Gumdrop]§f x_aanaa_x§r§f:§f anyone got a cow
+[23:08:13] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '057f2843-af99-27'.
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
+	at g.a(SourceFile:45) [LabyMod-1.8.8.jar:?]
+	at ave.av(Minecraft.java:1100) [LabyMod-1.8.8.jar:?]
+	at ave.a(Minecraft.java:428) [LabyMod-1.8.8.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [LabyMod-1.8.8.jar:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '057f2843-af99-27'.
+	at auo.a(SourceFile:271) ~[LabyMod-1.8.8.jar:?]
+	at bcy.a(SourceFile:1387) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:113) ~[LabyMod-1.8.8.jar:?]
+	at hr.a(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at fh$1.run(SourceFile:13) ~[LabyMod-1.8.8.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
+	at g.a(SourceFile:44) ~[LabyMod-1.8.8.jar:?]
+	... 3 more
+[23:08:19] [Client thread/INFO]: [CHAT] §c[Licorice]§f _AGoodGapple_§r§f:§f me
+[23:08:19] [Client thread/INFO]: [CHAT] §a[JellyBean]§f Cattiees§r§f:§f Anyone want kit member and kit jellybean?
+[23:13:06] [Client thread/INFO]: Connecting to play.craftedwild.net, 25565
+[23:13:59] [Client thread/INFO]: Connecting to play.craftedwild.net, 25565
+[23:19:09] [Client thread/INFO]: Connecting to play.craftedwild.net, 25565
+[23:20:38] [Client thread/INFO]: Connecting to play.craftedwild.net, 25565
